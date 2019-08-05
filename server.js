@@ -16,4 +16,4 @@ function onRequest(req,res){
     res.end();
     });
 }
-server.listen(5000,() => console.log('server listening on port 5K'));
+server.listen(5000,() => console.log('Server listening on port 5K'));
